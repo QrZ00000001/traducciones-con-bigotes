@@ -10,6 +10,7 @@ Este archivo es la referencia para cualquier asistente que modifique el proyecto
 - `script.js`: navegación, desplegables, Ko-fi, contador y widgets de Steam.
 - `assets/`: imágenes locales propias de la web.
 - `assets/logo.png`: logo del gato usado en la cabecera.
+- `assets/social-preview.png`: imagen social compartida por las páginas.
 
 ## Reglas generales
 
@@ -139,9 +140,10 @@ En una traducción completa no se enumeran todos los componentes como tags; se d
 - El nombre oficial del sitio es `Traducciones con Bigotes`.
 - Cada página debe tener un `<title>` y una metadescripción propios.
 - Mantener Open Graph y Twitter Cards coherentes con el título y la descripción de cada página.
-- Cuando exista el dominio público, añadir `link rel="canonical"`, `og:url` y URLs absolutas para las imágenes sociales.
-- La imagen social recomendada es PNG o JPG de `1200 × 630`; no usar el favicon de 64 px ni las capas incompletas de la mascota.
-- Al publicar nuevas páginas, añadirlas al futuro `sitemap.xml`.
+- La URL pública actual es `https://traduccionesconbigotes.pages.dev/`.
+- Cada página debe incluir `link rel="canonical"`, `og:url` y URLs absolutas para las imágenes sociales.
+- La imagen social vigente es `assets/social-preview.png`; no usar el favicon de 64 px ni las capas incompletas de la mascota.
+- Al publicar nuevas páginas, añadirlas a `sitemap.xml`.
 
 ## Descargas
 
