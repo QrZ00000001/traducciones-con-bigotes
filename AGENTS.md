@@ -151,6 +151,7 @@ En una traducción completa no se enumeran todos los componentes como tags; se d
 - Mantener Mega y MediaFire en `.dropdown-menu` cuando ambos existan.
 - No cambiar enlaces sin autorización.
 - Comprobar que tag, ZIP y nota de compatibilidad indiquen versiones coherentes.
+- La app de revisión se abre en `https://elgrimoriodelgato.pages.dev` y su repositorio de descarga es `https://github.com/QrZ00000001/app-traducciones-con-bigotes`.
 
 ## Responsive
 
