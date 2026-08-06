@@ -11,6 +11,7 @@ Este archivo es la referencia para cualquier asistente que modifique el proyecto
 - `assets/`: imágenes locales propias de la web.
 - `assets/logo.png`: logo del gato usado en la cabecera.
 - `assets/social-preview.png`: imagen social compartida por las páginas.
+- `assets/app-project-workflow.gif`, `assets/app-baladins-comparison.png` y `assets/app-rubinite-revision.png`: demostraciones visuales de la app de revisión.
 
 ## Reglas generales
 

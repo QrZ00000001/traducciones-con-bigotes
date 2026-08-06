@@ -383,15 +383,16 @@ footer.contact p{ color:var(--paper-dim); max-width:50ch; line-height:1.6; margi
 .support-panel p,
 .translator-panel p{ margin:0; font-size:.84rem; }
 .app-page{ max-width:900px; }
-.app-hero{ max-width:700px; }
+.app-hero{ max-width:700px; padding:40px 0; }
 .app-section{ padding:34px 0; border-bottom:1px solid var(--line); }
 .workflow-list{ display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:14px; margin:0; padding:0; list-style:none; }
 .workflow-list li{ border:1px solid var(--line); border-radius:8px; padding:18px; background:var(--ink-soft); }
 .workflow-list strong{ display:block; margin-bottom:6px; }
 .workflow-list span,.muted{ color:var(--paper-dim); line-height:1.55; font-size:.88rem; }
-.media-placeholders{ display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:16px; }
+.media-placeholders{ display:grid; grid-template-columns:1fr; gap:26px; }
 .media-placeholder{ margin:0; }
-.media-placeholder > div{ min-height:190px; display:grid; place-items:center; text-align:center; border:1px dashed var(--paper-dim); border-radius:8px; color:var(--paper-dim); font-size:.8rem; letter-spacing:.08em; background:var(--contact-bg); }
+.media-placeholder a{ display:block; border-radius:8px; overflow:hidden; border:1px solid var(--line); background:#1d1f21; box-shadow:var(--shadow); }
+.media-placeholder img{ display:block; width:100%; height:auto; }
 .media-placeholder figcaption{ margin-top:8px; color:var(--paper-dim); font-size:.74rem; line-height:1.4; }
 .app-csv pre{ overflow:auto; padding:14px; background:var(--paper); color:var(--ink); border-radius:8px; font-size:.8rem; }
 
