@@ -120,6 +120,7 @@ En una traducción completa no se enumeran todos los componentes como tags; se d
 - WitchHand: `Traducción completa`, `Traducción v1.0`, `Español neutro`, `Fuente corregida`, `Reemplaza al francés`.
 - Baladins: `Traducción completa`, `Traducción v1.1`, `Español neutro`, `Fuente extendida`, `Reemplaza al japonés`.
 - Kotama and Academy Citadel: `En preparación`, `Español neutro`.
+- Little Witch in the Woods: `En preparación`, `Español neutro`.
 - Rubinite: `Traducción completa`, `Traducción v1.2`, `Español neutro`, `Fuente corregida`, `Español añadido`.
 - Juicy Realm: `Traducción completa`, `Traducción v1.0`, `Español neutro`, `Español añadido`.
 
