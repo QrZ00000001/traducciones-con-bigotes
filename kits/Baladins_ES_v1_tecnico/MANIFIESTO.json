@@ -1,0 +1,32 @@
+﻿{
+  "juego": "Baladins",
+  "steamAppId": 1866320,
+  "versionTraduccion": "v1.1",
+  "versionJuegoProbada": "Ver docs/ESTADO_ACTUAL.md (2026-08-06)",
+  "motor": "Unity (Yarn Spinner)",
+  "generadoEl": "2026-08-06",
+  "traductor": "John Gutierrez",
+  "columnas": ["Term", "English", "Spanish (es-ES)"],
+  "notaTerm": "Term es la clave real de diálogo Yarn/I2 Localization. No debe modificarse.",
+  "resumen": {
+    "filasTotales": 4608,
+    "traducidasAlEspanol": 4608,
+    "celdasVaciasEnEspanol": 0,
+    "notaRevisionEditorial": "Las 266 entradas integradas desde la pasada editorial siguen disponibles para revisión de estilo dentro del CSV canónico."
+  },
+  "archivos": [
+    {
+      "nombre": "baladins_es_traduccion.csv",
+      "descripcion": "Tabla canónica completa para revisión e integración.",
+      "filas": 4608
+    },
+    {
+      "nombre": "README.md",
+      "descripcion": "Instrucciones de uso, alcance y verificación."
+    },
+    {
+      "nombre": "HASHES_SHA256.txt",
+      "descripcion": "Sumas SHA-256 de los archivos del kit."
+    }
+  ]
+}

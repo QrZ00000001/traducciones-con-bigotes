@@ -89,6 +89,8 @@ No usar `Próxima traducción`, pues duplica `En preparación`.
 ### Idioma e incorporación
 
 - `Español neutro`: evita regionalismos marcados.
+- `Español España`: variante es-ES según la documentación del proyecto.
+- `Español Latino próximamente`: variante latinoamericana planificada, aún no disponible.
 - `Español añadido`: se incorpora sin eliminar otro idioma.
 - `Reemplaza al francés`: ocupa la opción francesa.
 - `Reemplaza al japonés`: ocupa la opción japonesa.
@@ -123,6 +125,7 @@ En una traducción completa no se enumeran todos los componentes como tags; se d
 - Little Witch in the Woods: `En preparación`, `Español neutro`.
 - Rubinite: `Traducción completa`, `Traducción v1.2`, `Español neutro`, `Fuente corregida`, `Español añadido`.
 - Juicy Realm: `Traducción completa`, `Traducción v1.0`, `Español neutro`, `Español añadido`.
+- Dressmaker: `Traducción completa`, `Traducción v1.0`, `Español España`, `Español añadido`, `Español Latino próximamente`.
 
 ## Descripciones
 

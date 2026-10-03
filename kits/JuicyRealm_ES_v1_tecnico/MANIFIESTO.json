@@ -1,0 +1,22 @@
+{
+  "juego": "Juicy Realm",
+  "steamAppId": 732370,
+  "versionTraduccion": "v1",
+  "versionJuegoProbada": "build_011, Unity 2018.4.30f1 (ver docs/ESTADO_FINAL.md)",
+  "motor": "Unity (I2 Localization)",
+  "generadoEl": "2026-08-06",
+  "traductor": "John Gutierrez",
+  "columnas": [
+    "Term",
+    "English",
+    "Spanish (es-ES)"
+  ],
+  "notaTerm": "Term es la clave real de termino I2 Localization, sin modificar. El ingles se extrajo directamente del LanguageSourceData original (scripts/i2_terms.json), previo a la edicion.",
+  "archivos": [
+    {
+      "nombre": "juicyrealm_es_traduccion.csv",
+      "filas": 980,
+      "sha256": "e288a236136d2e32796d690931128d2eafb37e5b236d44d412f8e0d26eabdbba"
+    }
+  ]
+}

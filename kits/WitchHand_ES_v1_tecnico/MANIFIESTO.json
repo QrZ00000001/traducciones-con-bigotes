@@ -1,0 +1,22 @@
+{
+  "juego": "WitchHand",
+  "steamAppId": 2420880,
+  "versionTraduccion": "v1",
+  "versionJuegoProbada": "Probado 2026-08-05 (ver docs/ESTADO_FINAL.md)",
+  "motor": "GameMaker (YYC)",
+  "generadoEl": "2026-08-06",
+  "traductor": "John Gutierrez",
+  "columnas": [
+    "Term",
+    "English",
+    "Spanish (es-ES)"
+  ],
+  "notaTerm": "Term = \"<archivo_origen>/<clave_real>[_campo]\". La clave real del juego es la parte final tras la ultima barra (antes del sufijo _Name/_Desc/_Flavor en cartas). El espanol reemplaza la columna FRENCH original (frances sacrificado, ver DECISIONES.md).",
+  "archivos": [
+    {
+      "nombre": "witchhand_es_traduccion.csv",
+      "filas": 1473,
+      "sha256": "961271657282873aeda719408c47b18eb111527d651b503d31c7982d885a0eaa"
+    }
+  ]
+}

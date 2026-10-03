@@ -1,0 +1,36 @@
+{
+  "juego": "Kotama and Academy Citadel",
+  "steamAppId": 3639650,
+  "versionTraduccion": "v1",
+  "versionJuegoProbada": "Build con boot.config guid 091b5ec359d24dca8ad34562343e3b31 (Steam, comprobado 2026-08-08)",
+  "motor": "Unity 2022.3.62f3c1 (IL2CPP)",
+  "generadoEl": "2026-08-08",
+  "traductor": "John Gutierrez",
+  "columnas": [
+    "Term",
+    "English",
+    "Spanish (es-ES)"
+  ],
+  "notaTerm": "Term es la clave real de la tabla tblanguage.bytes (sistema propio del estudio, tablas binarias estilo Luban dentro de bundles YooAsset). No debe modificarse.",
+  "notaIntegracion": "El parche comunitario reemplaza internamente el slot ruso (Ru) de la clase LanguageCnf por el espanol; el nombre visible en el selector de idioma se muestra como 'Espanol'. No es posible agregar un 9no idioma sin recompilar el juego (LanguageCnf tiene 8 campos fijos por nombre, confirmado por analisis estatico de global-metadata.dat). Ver docs/DECISIONES.md del proyecto.",
+  "resumen": {
+    "filasTotales": 4678,
+    "traducidasAlEspanol": 4678,
+    "celdasVaciasEnEspanol": 0
+  },
+  "archivos": [
+    {
+      "nombre": "kotama_es_traduccion.csv",
+      "descripcion": "Tabla canonica completa (tblanguage.bytes) para revision, integracion oficial o traduccion a otro idioma.",
+      "filas": 4678
+    },
+    {
+      "nombre": "README.md",
+      "descripcion": "Instrucciones de uso, alcance y verificacion."
+    },
+    {
+      "nombre": "HASHES_SHA256.txt",
+      "descripcion": "Sumas SHA-256 de los archivos del kit."
+    }
+  ]
+}
