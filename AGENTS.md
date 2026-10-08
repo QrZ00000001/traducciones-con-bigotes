@@ -125,7 +125,7 @@ En una traducción completa no se enumeran todos los componentes como tags; se d
 - Little Witch in the Woods: `En preparación`, `Español neutro`.
 - Rubinite: `Traducción completa`, `Traducción v1.2`, `Español neutro`, `Fuente corregida`, `Español añadido`.
 - Juicy Realm: `Traducción completa`, `Traducción v1.0`, `Español neutro`, `Español añadido`.
-- Dressmaker: `Traducción completa`, `Traducción v1.0`, `Español España`, `Español añadido`, `Español Latino próximamente`.
+- Dressmaker: `Traducción completa`, `Traducción v1.2`, `Español España`, `Español añadido`, `Español Latino próximamente`.
 
 ## Descripciones
 
